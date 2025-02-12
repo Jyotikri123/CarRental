@@ -1,4 +1,4 @@
 # CarRental
 This is my first Git Repository.
 <br>
-Author - Jyoti Kumari
+Author - Jyoti (Purushottam)
